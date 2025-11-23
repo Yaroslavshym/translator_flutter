@@ -15,7 +15,7 @@ void main() {
     // setWindowMaxSize(const Size(400, 800));
   }
   runApp(const MyApp());
-}
+}s
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
